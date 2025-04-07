@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 😄 About Me:
 🌱 I'm a Front-End Developer
-🤔 Maybe a UX/UI Desiginer? not sure...
+🤔 Maybe a UX/UI Desiginer? not sure...  
 💬 I'm good with:
 - javascript/typescript
 - vue/react
