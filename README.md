@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 😄 About Me:
+🌱 I'm a Front-End Developer
+🤔 Maybe a UX/UI Desiginer? not sure...
+💬 I'm good with:
+- javascript/typescript
+- vue/react
+- node
+- sass/less
+
+
+
